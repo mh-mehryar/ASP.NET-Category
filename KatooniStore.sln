@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatooniStoreWeb", "KatooniStoreWeb\KatooniStoreWeb.csproj", "{440834A8-0A74-4AE8-A360-778D4F7F0CD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{440834A8-0A74-4AE8-A360-778D4F7F0CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{440834A8-0A74-4AE8-A360-778D4F7F0CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{440834A8-0A74-4AE8-A360-778D4F7F0CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{440834A8-0A74-4AE8-A360-778D4F7F0CD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E946993-9860-4851-A929-43F423F7A5B4}
+	EndGlobalSection
+EndGlobal
